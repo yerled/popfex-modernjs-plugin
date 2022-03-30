@@ -1,6 +1,6 @@
 {
   "name": "popfex-modernjs-plugin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "jsnext:source": "./src/index.ts",
   "main": "./dist/js/node/main.js",
   "scripts": {
